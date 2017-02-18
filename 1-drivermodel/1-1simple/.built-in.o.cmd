@@ -1,0 +1,1 @@
+cmd_/home/l_0x00000000h/linux_driver/LinuxDriver/1-drivermodel/1-1simple/built-in.o :=  rm -f /home/l_0x00000000h/linux_driver/LinuxDriver/1-drivermodel/1-1simple/built-in.o; ar rcsD /home/l_0x00000000h/linux_driver/LinuxDriver/1-drivermodel/1-1simple/built-in.o
