@@ -5,13 +5,13 @@
 
 static int demo_module_init(void)
 {
-	printk("Module Init\n");
+	printk("<0>Module Init\n");
 	return 0;
 }
 
 static void demo_module_exit(void)
 {
-	printk("Module Exit\n");
+	printk("<0>" "Module Exit\n");
 }
 
 /**

@@ -29,5 +29,5 @@ all:
 	$(MAKE) -C $(KDIR) M=$(PWD) modules
 
 clean:
-	rm -rf .*.cmd *.o *.mod.c *.ko .tmp_versions
+	rm -rf .*.cmd *.o *.mod.c *.ko .tmp_versions *.symvers *.order
 endif
